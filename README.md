@@ -2,9 +2,8 @@
 ## Data Meets Perspective
 
 <div align="center">
-
-![InContext AI Background](./backgroundHorizon.webm)
-
+  
+<img src="./backgroundHorizon.webp" alt="Hero" height="300">
 
 [![Contact](https://img.shields.io/badge/Contact-support%40incontext.space-green?style=for-the-badge)](mailto:support@incontext.space)
 
@@ -26,7 +25,6 @@ InContext AI is revolutionizing how businesses unlock the power of data through 
 We're transforming decision-making with contextual intelligence for the modern executive.
 
 ---
-
 ## 🏗️ **Platform Philosophy**
 
 Our platform is built on three foundational pillars that ensure strategic intelligence is delivered with precision, practicality, and power:
@@ -45,44 +43,6 @@ Our platform is built on three foundational pillars that ensure strategic intell
 - 🧠 Intelligent suggestion engines
 - 📊 Advanced visualization tools
 - 🔍 Exploratory insight discovery
-
----
-
-## 🗺️ **Strategic Roadmap**
-
-Our development is structured in four distinct phases, designed for sustainable growth and continuous value delivery:
-
-### **Phase 1: Foundational Tools & Infrastructure** 🏗️
-> *Building robust technical foundation and launching first suite of products*
-
-- **Product Development:** Intelligence Aides, Enterprise Tools, and Workflow Agents
-- **Infrastructure Build-out:** Secure and scalable Data Sink with advanced ETL pipelines
-- **Early Commercialization:** Market awareness and early customer base establishment
-
-**Key Milestones:**
-- ✅ Core data infrastructure setup (data lake, warehouse, ETL)
-- ✅ Initial public and IoT data sources onboarding
-- ✅ First Intelligence Aides and Agents launch
-- ✅ Commercial release of data dashboards
-
-### **Phase 2: Expanding the Data Ecosystem** 🌐
-> *Enhancing data offerings and fostering collaborative ecosystem*
-
-- **Proprietary Data Onboarding:** Data-sharing agreements and business data integration
-- **New Value Propositions:** Dashboards, quick reports, and subscription models
-- **Partnership & Community:** Industry associations and collaborative frameworks
-
-**Key Milestones:**
-- 🎯 First data-sharing agreements with partners
-- 🎯 Proprietary business data onboarding
-- 🎯 Industry-specific data benchmarks and memberships
-
-### **Phase 3: AI-Powered Analytics & Data as a Service (DaaS)** 🤖
-> *Sophisticated AI-driven analytical tools and DaaS transition*
-
-- **Advanced AI Tools:** Predictive analytics, sentiment analysis, cross-pollination insights
-- **Data to APIs:** Customizable APIs for direct integration
-- **Evolving Monetization:** Pay-to-use AI tools and flexible API access plans
 
 **Key Milestones:**
 - 🔮 Predictive analytics and sentiment analysis tools
@@ -103,47 +63,12 @@ Our development is structured in four distinct phases, designed for sustainable 
 
 ---
 
-## ⚙️ **Technology Stack**
-
-### **Cloud & Infrastructure**
-- ☁️ **AWS** - Scalable data storage (S3) and processing (EC2)
-- 🗄️ **PostgreSQL** - Reliable backend databases
-- 🔒 **HashiCorp Vault** - Enterprise-grade security
-
-### **Data & AI**
-- 🔄 **Modern ETL Tools** - Data transformation and processing
-- 🧠 **TensorFlow** - AI capabilities and machine learning
-- 🤖 **LLM Integration** - Advanced language model providers
-
-### **Security & Compliance**
-- 🛡️ Enterprise-grade encryption protocols
-- 🔐 Data protection at every stage
-- 📋 Compliance with industry standards
-
----
-
-## 🤝 **Partner With Us**
-
-InContext AI is at the forefront of a market shift toward data-driven, contextual decision-making. We're building a unique platform that fills a critical gap in the rapidly expanding AI and data intelligence market.
-
-### **Why Partner With InContext AI?**
-
-| Advantage | Description |
-|-----------|-------------|
-| 🎯 **Unique Market Position** | Innovative approach to contextual intelligence |
-| 📈 **Sustainable Growth** | Monetization built into every development stage |
-| 👥 **Expert Team** | AI researchers and industry experts |
-| 🚀 **Growth Potential** | Significant opportunities in expanding AI market |
-
----
-
 ## 📞 **Get Started**
 
 <div align="center">
 
 ### Ready to transform your decision-making process?
 
-[![Get Demo](https://img.shields.io/badge/🚀%20Get%20a%20Demo-Start%20Now-blue?style=for-the-badge&logoWidth=20)](https://incontext.space/demo)
 [![Contact Us](https://img.shields.io/badge/💬%20Contact%20Us-Let's%20Talk-green?style=for-the-badge&logoWidth=20)](mailto:support@incontext.space)
 
 **Partnership & Investment Opportunities:**  
@@ -169,14 +94,14 @@ InContext AI is at the forefront of a market shift toward data-driven, contextua
 ### 🌟 **Join the Revolution**
 
 *Transforming how businesses understand their operations and the world around them.*
-
+<!--
 [![Website](https://img.shields.io/badge/InContext.Space-Visit%20Website-blue?style=flat-square)](https://incontext.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/company/incontext-ai)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/incontext_ai)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/incontext_ai)-->
 
 ---
 
 **© 2025 InContext.space. All rights reserved.**  
-[Privacy Policy](https://incontext.space/privacy) • [Terms of Use](https://incontext.space/terms) • [Contact](mailto:support@incontext.space)
+<!-- [Privacy Policy](https://incontext.space/privacy) • [Terms of Use](https://incontext.space/terms) • [Contact](mailto:support@incontext.space)-->
 
 </div>
