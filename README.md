@@ -8,8 +8,8 @@
 
 [![Contact](https://img.shields.io/badge/Contact-support%40incontext.space-green?style=for-the-badge)](mailto:support@incontext.space)
 
-<--- [![Website](https://img.shields.io/badge/Website-InContext.Space-blue?style=for-the-badge)](https://incontext.space) 
-[![Demo](https://img.shields.io/badge/Get%20a-Demo-orange?style=for-the-badge)](https://incontext.space/demo) ---!>
+<!-- [![Website](https://img.shields.io/badge/Website-InContext.Space-blue?style=for-the-badge)](https://incontext.space) 
+[![Demo](https://img.shields.io/badge/Get%20a-Demo-orange?style=for-the-badge)](https://incontext.space/demo) -->
 
 **Elevate decision making with systems built for leaders.**
 
